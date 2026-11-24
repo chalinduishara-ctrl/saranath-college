@@ -1,0 +1,6 @@
+{
+  "name": "Saranath College, Kuliyapitiya",
+  "description": "Official modern portal and AI-powered heritage hub of Saranath College, Kuliyapitiya — celebrating a proud legacy of excellence since 1882.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

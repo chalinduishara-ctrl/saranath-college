@@ -1,0 +1,105 @@
+{
+  "housePoints": [
+    {
+      "id": "thisara",
+      "points": 540
+    },
+    {
+      "id": "mayura",
+      "points": 515
+    },
+    {
+      "id": "lihini",
+      "points": 495
+    },
+    {
+      "id": "paravi",
+      "points": 525
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-up-1",
+      "type": "upcoming",
+      "titleEn": "Annual Inter-House Athletic Championship 2027",
+      "titleSi": "වාර්ෂික නිවාසාන්තර මලල ක්‍රීඩා උළෙල 2027",
+      "date": "2027-02-18",
+      "time": "08:00 AM",
+      "venue": "Saranath College Main Grounds, Meegahakotuwa",
+      "category": "sports",
+      "descriptionEn": "Thisara, Mayura, Lihini, and Paravi Houses compete across track and field disciplines, march-past drill displays, and relay finals.",
+      "descriptionSi": "තිසර, මයුර, ලිහිණි සහ පරවි නිවාස අතර පැවැත්වෙන වාර්ෂික මලල ක්‍රීඩා තරගාවලිය සහ ආචාර පෙළපාලිය.",
+      "imageUrl": "/assets/aistudio/hero_9a4d2a7f.jpg",
+      "createdAt": "2026-11-20T08:00:00.000Z"
+    },
+    {
+      "id": "evt-up-2",
+      "type": "upcoming",
+      "titleEn": "145th Founders’ Day & Prize Giving Ceremony",
+      "titleSi": "145 වන ආදි කර්තෘ දිනය සහ ත්‍යාග ප්‍රදානෝත්සවය",
+      "date": "2027-03-10",
+      "time": "09:00 AM",
+      "venue": "Main Auditorium, Saranath College",
+      "category": "ceremony",
+      "descriptionEn": "Commemorating Headmaster Anthony de Silva and celebrating top academic scholars, national sports medalists, and O/L & A/L achievers.",
+      "descriptionSi": "ඇන්තනී ද සිල්වා මුල්ගුරුතුමන් සිහිපත් කරමින් දක්ෂතම සිසු දරුවන් ඇගයීමේ වාර්ෂික ත්‍යාග ප්‍රදානෝත්සවය.",
+      "createdAt": "2026-11-20T08:30:00.000Z"
+    },
+    {
+      "id": "evt-up-3",
+      "type": "upcoming",
+      "titleEn": "Wayamba Science & Robotics Innovation Exhibition",
+      "titleSi": "වයඹ විද්‍යා හා රොබෝ තාක්ෂණ නව නිපැයුම් ප්‍රදර්ශනය",
+      "date": "2027-04-04",
+      "time": "08:30 AM",
+      "venue": "Science & Technology Block",
+      "category": "academic",
+      "descriptionEn": "Student inventors from Physical Science, Biological Science, and Technology streams showcase sustainable engineering and ICT prototypes.",
+      "descriptionSi": "විද්‍යා හා තාක්ෂණ අංශයේ සිසුන්ගේ නව නිපැයුම් හා රොබෝ තාක්ෂණික නිර්මාණ එළිදැක්වීම.",
+      "createdAt": "2026-11-21T09:00:00.000Z"
+    },
+    {
+      "id": "evt-past-1",
+      "type": "past",
+      "titleEn": "Annual Poson Bakthi Gee & Dhamma Program",
+      "titleSi": "වාර්ෂික පොසොන් භක්ති ගීත හා ධර්ම වැඩසටහන",
+      "date": "2026-06-20",
+      "time": "06:00 PM",
+      "venue": "College Shrine & Pagoda Courtyard",
+      "category": "cultural",
+      "descriptionEn": "Students, teachers, and parents gathered at the sacred college shrine courtyard for illuminated lanterns, devotional chants, and Dansala.",
+      "descriptionSi": "විදුහල් බුදු මැදුර අභියස පැවති පොසොන් භක්ති ගීත ප්‍රසංගය සහ පහන් කූඩු ප්‍රදර්ශනය.",
+      "outcomeEn": "Over 2,400 attendees joined; 45 traditional lanterns crafted by the four Houses.",
+      "imageUrl": "/assets/aistudio/hero_9a4d2a7f.jpg",
+      "createdAt": "2026-06-22T10:00:00.000Z"
+    },
+    {
+      "id": "evt-past-2",
+      "type": "past",
+      "titleEn": "North Western Province Schools Badminton Gold",
+      "titleSi": "වයඹ පළාත් පාසල් බැඩ්මින්ටන් රන් පදක්කම් ජයග්‍රහණය",
+      "date": "2026-08-14",
+      "time": "04:00 PM",
+      "venue": "Kurunegala Indoor Stadium",
+      "category": "sports",
+      "descriptionEn": "Saranath College Under-19 Badminton squad swept the provincial finals, qualifying directly for the All-Island Championship.",
+      "descriptionSi": "වයඹ පළාත් වයස අවුරුදු 19 න් පහළ බැඩ්මින්ටන් ශූරතාවලියේ රන් පදක්කම් දිනා සමස්ත ලංකා තරගාවලියට සුදුසුකම් ලැබීම.",
+      "outcomeEn": "1st Place Overall Provincial Champions (Under-19 Boys & Girls).",
+      "createdAt": "2026-08-15T14:00:00.000Z"
+    },
+    {
+      "id": "evt-past-3",
+      "type": "past",
+      "titleEn": "Past Pupils’ Association Annual General Meeting & Scholarship Night",
+      "titleSi": "ආදි ශිෂ්‍ය සංගම් මහා සභා රැස්වීම හා ශිෂ්‍යත්ව ප්‍රදානය",
+      "date": "2026-09-28",
+      "time": "05:30 PM",
+      "venue": "Meegahakotuwa Main Hall",
+      "category": "ceremony",
+      "descriptionEn": "Alumni from Colombo, Kuliyapitiya, and overseas chapters awarded 35 merit scholarships to A/L students and handed over smart-board equipment.",
+      "descriptionSi": "දෙස් විදෙස් ආදි සිසුන්ගේ සහභාගීත්වයෙන් උසස් පෙළ සිසුන් 35 දෙනෙකුට ශිෂ්‍යත්ව හා නව ස්මාර්ට් පන්ති කාමර උපකරණ පරිත්‍යාග කිරීම.",
+      "outcomeEn": "LKR 3.2 Million raised for Science Lab upgrade and student scholarships.",
+      "createdAt": "2026-09-29T11:00:00.000Z"
+    }
+  ]
+}
